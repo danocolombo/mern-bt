@@ -4,9 +4,9 @@ this is a project that started from a Udemy course by Brad Traversy, "MERN Stack
 
 ## SPRINT02
 
-# this branch picked up in Section 3 (clip 9) "User Routes & JWT Authentication".
+### this branch picked up in Section 3 (clip 9) "User Routes & JWT Authentication".
 
-# here is sample of what we added
+#### here is sample of what we added
 
 -   built User model for registering a new user
 -   added Express validator to check post body and header
