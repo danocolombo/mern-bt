@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://udemy:Admin@devconnector-rwwij.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://udemy:Admin@devconnector-rwwij.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtToken": "theSecretToken"
 }
