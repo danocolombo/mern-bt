@@ -20,7 +20,7 @@ router.post(
         check(
             'password',
             'Please provide a password with 5 letters or more.'
-        ).isLength({ min: 6 })
+        ).isLength({ min: 5 })
     ],
     async (req, res) => {
         const errors = validationResult(req);

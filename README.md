@@ -15,3 +15,5 @@ this is a project that started from a Udemy course by Brad Traversy, "MERN Stack
     the jwt token passed in needs to be active, from that we get the userId, then
     get the user details from mongo based on the userid returned from jwttoken.
 -   ability to login... (api/auth POST) where email and password are given and token given if valid
+-   created model profile for the user
+-   updated profile route to do look up for current user profile, ability to create and update profile.
